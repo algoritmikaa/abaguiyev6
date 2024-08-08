@@ -1,0 +1,65 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border:3px solid rgb(63, 23, 223);
+    border-radius:9px;
+    padding:5px;
+    color:darkblue;
+    margin-bottom:10px;
+}
+
+header a {
+    background-color:rgb(63, 23, 223);
+    color:white;
+    text-decoration:none;
+    border-radius:5px;
+    padding:3px;
+}
+
+h1 {
+    text-align:center;
+    border:3px dashed darkblue;
+    border-radius:5px;
+    color:rgb(10, 218, 221);
+    font-size:35px;
+}
+
+footer p {
+    border:2px dotted rgb(63, 149, 199);
+    border-radius:3px;
+    padding:3px;
+}
+
+nav a {
+    background-color:darkblue;
+    color:white;
+    text-decoration:none;
+    border-radius:3px;
+    padding:3px;
+    margin:10px;
+}
+
+.amin {
+    background-color:white;
+    color:darkblue;
+    border:1px solid darkblue;
+    border-radius:3px;
+}
+
+.bagiev {
+    border:5px dotted darkblue;
+    padding:10px;
+    border-radius:5px;
+}
+
+h2 {
+    color:blue;
+}
+
+.borz {
+    text-decoration:none;
+    border:2px dashed darkblue;
+    padding:5px;
+}
